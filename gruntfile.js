@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     coffee: {
       options: {
         separator: '\n',
-        join: true
+        join: false
       },
       compile: {
         files: {
