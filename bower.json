@@ -1,0 +1,7 @@
+{
+  "name": "voronoi-js",
+  "version": "0.1.0",
+  "main": "voronoi.js",
+  "keywords": [ "util", "voronoi", "client" ],
+  "ignore" : [ "component.json", "package.json" ]
+}
